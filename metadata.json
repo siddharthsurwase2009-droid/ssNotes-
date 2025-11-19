@@ -1,0 +1,5 @@
+{
+  "name": "ssNotes",
+  "description": "An AI-powered web application that generates comprehensive study notes for various subjects under the MSBTE curriculum. Users can select their branch, semester, and subject to get instant, well-structured notes.",
+  "requestFramePermissions": []
+}
